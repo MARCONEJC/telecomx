@@ -1,4 +1,4 @@
-Projeto Telecom X 
+# Projeto Telecom X 
 Análise de Evasão de Clientes (Churn)
 
 🧾 Propósito do Projeto
@@ -16,11 +16,9 @@ Este projeto tem como objetivo analisar dados de clientes da empresa fictícia T
 
 Distribuição de Churn
 
-
 A maioria dos clientes não cancela, mas uma parcela significativa está evadindo.
 
 Churn por Tipo de Contrato
-
 
 Contratos mensais possuem taxas de evasão muito maiores que contratos anuais ou bienais.
 
@@ -33,8 +31,7 @@ Clientes com pouco tempo de casa têm maior propensão a cancelar o serviço.
 
 Clone este repositório ou baixe os arquivos TelecomX_BR.ipynb e TelecomX_Data.json.
 
-git clone https://github.com/seu-usuario/TelecomX_Projeto.git
-cd TelecomX_Projeto
+git clone https://github.com/MARCONEJC/telecomx
 
 Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
 
@@ -66,6 +63,8 @@ Sinta-se à vontade para abrir ou enviar pull requests com melhorias no código,
 
 Projeto desenvolvido para fins educacionais. Livre para uso não-comercial com devidos créditos.
 
-Autor: Marcone Tenório da Silva 
-Curso: DataScience              Alura / Oracle ONE  Data: Maio de 2025
+ - Autor: Marcone Tenório da Silva
+ - Curso: DataScience               
+ - Alura / Oracle ONE
+ - Data: Maio de 2025
 
